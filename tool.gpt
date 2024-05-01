@@ -1,0 +1,5 @@
+name: pdf-reader
+description: Read a pdf and return the text
+args: filename: The filename of the pdf to read.
+
+#!/usr/bin/env python3 ${GPTSCRIPT_TOOL_DIR}/pdf-reader.py
