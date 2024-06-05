@@ -1,0 +1,4 @@
+tools: github.com/gptscript-ai/pdf-reader
+description: Reads the text content of an example.pdf and summarizes it.
+
+Read example.pdf and summarize the text for me.
